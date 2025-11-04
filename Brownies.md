@@ -53,6 +53,7 @@ Good Brownies Maybe
 
 ### Preparation
 
+1. Chop and sift dark chocolate chips. Set aside.
 1. Preheat the oven to 325°F (163°C).
 1. Grease an 8x8-inch metal brownie pan with pan spray.
 1. In a small bowl, whisk together the flour, baking powder, and salt. Set aside.
