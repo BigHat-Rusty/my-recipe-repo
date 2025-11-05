@@ -31,6 +31,7 @@ Good Brownies Maybe
 ### Chocolate
 
 - *100g (2/3 cup)* milk chocolate chips
+- *85-100g (1/2 - 2/3 cup)* dark chocolate chips, chopped and sifted
 - *50g (3/4 cup)* Dutch-processed cocoa powder
   - *65g* substitute with regular cocoa powder
 
@@ -38,7 +39,7 @@ Good Brownies Maybe
 
 - *5g (1 tsp)* vanilla extract
 - *2* large eggs
-- *85-100g (1/2 - 2/3 cup)* dark chocolate chips, chopped and sifted
+
 
 ### Cookware
 
@@ -63,7 +64,7 @@ Good Brownies Maybe
 1. Melt fats and sugars:
    - In a small saucepan over low heat, combine the olive oil, butter, white sugar, and brown sugar.
    - Stir until the butter is fully melted and the sugars are incorporated.
-   - **Note**: The mixture will look sandy. That's expected.
+   - **Note**: The mixture will look sandy That's expected.
 1. Melt in the milk chocolate:
    - Remove from heat and add the milk chocolate chips, stirring until melted.
    - **Note**: The mixture will still appear grainy.
@@ -92,4 +93,5 @@ Good Brownies Maybe
 
 1. Place the pan in the preheated oven and bake for 35 minutes.
 1. For best results, check doneness with an instant-read thermometer (202-205°F/95C).
+
 1. Let the brownies cool in the pan for at least 60-90 minutes before cutting. This allows the texture and flavors to fully develop.
