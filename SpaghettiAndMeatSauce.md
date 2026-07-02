@@ -20,7 +20,7 @@ Additional Metadata is included in this (optional) description.
 ### Ingredients
 
 - *1lb/450g* 80/20 Ground Chuck
-- *8oz/225g* Hot Italian Pork Sausage (I use 2 links)
+- *8oz/225g or 2 links* Hot Italian Pork Sausage
 - *200g or 1 med-lrg* Onion, medium diced
 - *20g or 4 cloves* Garlic, minced/pressed
 - *1g or 1/2tsp* Dried Oregano
@@ -49,7 +49,7 @@ Additional Metadata is included in this (optional) description.
 ### Preperation
 
 1. Dice onion thoroughly
-1. Mince Garlic
+1. Mince *20g or 4 cloves* Garlic
 1. Measure Tomato Paste, Oregano, Chile Flakes, and Dried Basil (if applicable) into a Ramekin
 1. Measure Salt, Sugar, and Bouillon into a Ramekin
 1. Measure Basil into a Ramekin
