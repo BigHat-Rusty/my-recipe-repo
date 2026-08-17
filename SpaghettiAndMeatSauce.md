@@ -32,7 +32,7 @@ Additional Metadata is included in this (optional) description.
 - *28oz/800g can* Crushed Tomatoes
 - *28oz/800g* Water (enough Water to fill tomato can)
 - *10g or 3Tbsp* Fresh Basil, chopped
-  - OR *1g* Dried Basil
+  - OR *1/2tsp* Dried Basil
 - *12oz/340g* Dried Spaghetti (broken in half)
 - *50g or 1/2c* Grated Parmesan
   - plus extra for garnish
@@ -56,12 +56,12 @@ Additional Metadata is included in this (optional) description.
    - *75g or 1/3c* Tomato Paste
    - *1/2tsp* Oregano
    - *1/2tsp* Chile Flakes
-   - *1g* Dried Basil (if applicable)
+   - (if applicable) *1/2tsp* Dried Basil
 1. Combine into a Ramekin:
    - *1.5tsp* Salt
    - *2tsp* Sugar
    - *15g or 1Tbsp* Bouillon into a Ramekin
-1. (If using fresh Basil, measure and set aside)
+1. (if applicable) Measure, chop, and set aside fresh Basil
 1. Measure *50g or 1/2c* Grated Parmesan into a Measuring Cup
 1. Measure and break Dried Spaghetti
 1. Open Crushed Tomatoes
@@ -82,6 +82,7 @@ Additional Metadata is included in this (optional) description.
 1. Stir and Cook for a minute or so until tomato paste is well incorporated
 1. Add the combined Salt, Sugar, and Bouillon
 1. Immediately add Crushed Tomatoes and Water
+1. (if applicable) Add Fresh Basil
 1. Stir and bring to a simmer
 
 ### Add the Noodles
